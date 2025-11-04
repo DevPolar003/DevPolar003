@@ -51,7 +51,5 @@ Estudo na etec e estou cursando desenvolvimento de sistemas.
 
 ## 🐍 GitHub Activity 
 
----
-
 [![GitHub Contribuições Diárias](https://github-readme-streak-stats.herokuapp.com/?user=Devpolar003&theme=dark&hide_border=true&background=000000&ring=4682B4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
