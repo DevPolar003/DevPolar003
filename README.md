@@ -1,9 +1,9 @@
 # 💻 Luis Felipe
 
-**`Desenvolvedor backend`**
+**Desenvolvedor backend**
 
-apenas um estudante que almeja trabalhar no mercado de tecnologia em breve.
-Estudo na etec e estou cursando desenvolvimento de sistemas.
+Apenas um estudante que almeja trabalhar no mercado de tecnologia em breve.  
+Estudo na ETEC e estou cursando Desenvolvimento de Sistemas.
 
 ---
 
@@ -12,15 +12,14 @@ Estudo na etec e estou cursando desenvolvimento de sistemas.
 ### 🌐 Front-End Languages
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
-<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 
 ---
 
-### 💾 Back-End Languages & DataBases
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=3776AB)
+### 💾 Back-End Languages & Databases
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=ED8B00)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=47A248)
 
@@ -28,7 +27,6 @@ Estudo na etec e estou cursando desenvolvimento de sistemas.
 
 ### 🔑 Frameworks
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=7952B3)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=TailwindCSS&logoColor=06B6D4)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 
 ---
@@ -43,10 +41,3 @@ Estudo na etec e estou cursando desenvolvimento de sistemas.
 ### 💡 Extras
 ![UML](https://img.shields.io/badge/-UML-000000?style=flat&logo=uml&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-
----
-
-### 📅 My streak
-
----
-[![GitHub Contribuições Diárias](https://github-readme-streak-stats.herokuapp.com/?user=Devpolar003&theme=dark&hide_border=true&background=000000&ring=4682B4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
