@@ -37,8 +37,7 @@ Estou fazendo o curso de Desenvolvimento de Sistemas.
 ---
 
 ### 💡 Extras
-
-![UML](https://img.shields.io/badge/-UML-000000?style=flat&logo=uml&logoColor=white)
+[![UML](https://img.shields.io/badge/-UML-000000?style=flat&logo=uml&logoColor=white)](https://gist.github.com/DevPolar003/00b718bb341cce2f672022ae9ee75475)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=A81D33)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=0078D4)
