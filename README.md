@@ -1,23 +1,13 @@
-<p align="center">
-  <picture>
-    <source media="(min-width: 600px)" srcset="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px">
-  </picture>
-</p>
-
-<div align="center">
-  <h1>💻 Luis Felipe</h1>
+<div>
+  <h1>Prazer, Luis Felipe</h1>
   <strong>Desenvolvedor backend</strong>
 </div>
 
-<p align="center">
+<p>
   Sou estudante de desenvolvimento back-end e gosto de fazer automatizações em Python e de resolver problemas através do código. <br>
   Estudo na ETEC e estou cursando Desenvolvimento de Sistemas.
 </p>
 
-<br clear="right">
-
----
 
 ## 🛠️ Technologies
 
