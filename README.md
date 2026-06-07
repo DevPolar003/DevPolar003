@@ -1,41 +1,59 @@
-<div>
-  <h1>Prazer, Luis Felipe</h1>
-  <strong>Desenvolvedor backend</strong>
-</div>
+# Hi, I'm Luis Felipe 👋
 
-<p>
-  Sou estudante de desenvolvimento back-end e gosto de fazer automatizações em Python e de resolver problemas através do código. <br>
-  Estudo na ETEC e estou cursando Desenvolvimento de Sistemas.
-</p>
+### Backend Developer
 
+I'm a backend development student focused on building scalable applications, automation tools, and solving real-world problems through code.
 
-## 🛠️ Technologies
-
-### 🌐 Front-End Languages
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)  
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+Currently studying Systems Development at ETEC, with a strong interest in backend architecture, APIs, databases, and automation.
 
 ---
 
-### 💾 Back-End Languages & Databases
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=ED8B00)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=4479A1)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=FFCA28)
+## 🚀 Tech Stack
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat\&logo=python\&logoColor=3776AB)
+![Go](https://img.shields.io/badge/-Go-000000?style=flat\&logo=go\&logoColor=00ADD8)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat\&logo=openjdk\&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat\&logo=javascript\&logoColor=F7DF1E)
 
 ---
 
-### 🔑 Frameworks
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=7952B3)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Spring_Boot](https://img.shields.io/badge/-Spring_Boot-000000?style=flat&logo=springboot&logoColor=6DB33F)
+## ⚙️ Backend & Databases
+
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat\&logo=node.js\&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat\&logo=express\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000000?style=flat\&logo=springboot\&logoColor=6DB33F)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat\&logo=postgresql\&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat\&logo=mysql\&logoColor=4479A1)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat\&logo=firebase\&logoColor=FFCA28)
+![Flyway](https://img.shields.io/badge/-Flyway-000000?style=flat\&logo=flyway\&logoColor=CC0200)
 
 ---
 
-### 💡 Extras
-[![UML](https://img.shields.io/badge/-UML-000000?style=flat&logo=uml&logoColor=white)](https://gist.github.com/DevPolar003/00b718bb341cce2f672022ae9ee75475)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=A81D33)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=0078D4)
+## 🌐 Frontend
+
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat\&logo=html5\&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat\&logo=css3\&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat\&logo=bootstrap\&logoColor=7952B3)
+
+---
+
+## 🛠️ Tools & Environment
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat\&logo=git\&logoColor=F05032)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat\&logo=linux\&logoColor=FCC624)
+![Debian](https://img.shields.io/badge/-Debian-000000?style=flat\&logo=debian\&logoColor=A81D33)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat\&logo=windows\&logoColor=0078D4)
+
+---
+
+## 📚 Currently Learning
+
+* Distributed Systems
+* Clean Architecture
+* RESTful API Design
+* Database Optimization
+* Concurrency with Go
+* Software Architecture Patterns
+
